@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700");
+@import "reset";
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #add8e6;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+button {
+  background-color: #add8e6;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #111;
+}
+
+.Page-wrapper{
+  display: flex;
+  width: 100vw;
+  flex-direction: column;
+  align-items: center;
+  .Page {
+    display: flex;
+    justify-content: space-evenly;
+    width: calc(100vw - 50px);
+    height: 70vh;
+    align-items: center;
+    img {
+      height: 50%;
+    }
+    .column {
+      width: 100%;
+      margin-left: 25px;
+      .heading{
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        border: 0.1px solid transparentize(black, .35);
+        width: 100%;
+      }
+    }
+  }
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,124 @@
+<<<<<<< HEAD
+@font-face {
+    font-family: myFirstFont;
+    src: url("/font/Retro\ Gaming.ttf");
+  }
+
+* {
+    font-family: myFirstFont;
+    font-size: large;
+    letter-spacing: .15em;
+    -webkit-text-stroke: .5px black;
+    color: white;
+    text-shadow:
+        3px 3px 0 #000,
+      -1px -1px 0 #000,  
+       1px -1px 0 #000,
+       -1px 1px 0 #000,
+        1px 1px 0 #000;
+        
+}
+
+=======
+>>>>>>> cd111adb1579480cb09838f476953d49de41b385
+body {
+    background-color: #F8F7FF;
+    text-align: center;
+}
+<<<<<<< HEAD
+
+h1 {
+    -webkit-animation: h1 5s infinite; 
+    background-image: url("https://ocn-media.s3.amazonaws.com/169ca9ec-702d-4e13-9f55-5066534e1f86.jpg");
+=======
+h1 {
+    background-image: url("https://images.ctfassets.net/usf1vwtuqyxm/3QQaEkThAnIAiXveGhJYD9/f79a571dbe9fd456d65e783040601fdc/hogwarts-castle-.jpg?fm=jpg");
+    font-family: 'Henny Penny', cursive;
+>>>>>>> cd111adb1579480cb09838f476953d49de41b385
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 60%;
+    width: 60%;
+    margin: auto;
+    padding: 20%;
+<<<<<<< HEAD
+    font-size: 60px;
+    text-align: center;
+    
+}
+
+.secret {
+    -webkit-animation: secret 5s infinite; 
+}
+
+@keyframes secret{
+    0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+@keyframes h1{
+    0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+ul {
+    padding-left:8px;
+    list-style:none;
+    margin-bottom:6px;
+    text-align: center;
+    text-indent: -12px;
+}
+
+table, th, td {
+    border: 1px solid gray;
+}
+
+table {
+    margin: 0 auto;
+}
+
+=======
+    color: #E7E1E8;
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+}
+.owl {
+    font-family: fantasy;
+}
+.secret {
+    opacity: 0.5;
+}
+li {
+    list-style-type: none;
+}
+table, th, td {
+    border: 1px solid gray;
+}
+table {
+    margin: 0 auto;
+}
+>>>>>>> cd111adb1579480cb09838f476953d49de41b385
+.cabbage {
+    color: chartreuse;
+}

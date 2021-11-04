@@ -1,0 +1,72 @@
+/* ===================== GENERAL ===================== */
+body {
+    background: #d5d6df;
+    font-family: 'Open Sans', helvetica;
+  }
+  h1, h2, h3 {
+    font-family: 'Montserrat', impact;
+    text-align: center;
+  }
+  nav {
+      display: flex;
+      justify-content: space-around;
+  }
+  nav a {
+      background: #d5d6df;
+      padding: 10px;
+      width: 45%;
+      text-align: center;
+      text-decoration: none;
+      color: #888;
+      font-family: 'Montserrat';
+  }
+  /* ===================== HEADER ===================== */
+  header {
+    width: 90%;
+    background: #f9f9f9;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+  }
+  header img {
+    width: 80%;
+  }
+  header h1 {
+    color: #32526a;
+  }
+  article {
+      display: flex;
+      justify-content: space-around;
+      margin-bottom: 20px;
+  }
+
+  /* ===================== MAIN ===================== */
+  main {
+    width: 90%;
+    background: #eee;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  main h2 {
+    color: #32526a;
+  }
+  main h3 {
+    color: #9a97b7;
+  }
+  section {
+    background: #f9f9f9;
+    width: 45%;
+    padding: 10px;
+  }
+
+  /* ===================== FOOTER ===================== */
+  footer {
+    width: 90%;
+    background: #f9f9f9;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  footer h3 {
+    color: #32526a;
+  }
+  

@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 200px;
+    width: 160px;
+}
+
+.redbox {
+    background-color: red;
+    height: 20px;
+    width: 20px;
+}
+
+.blackbox {
+    background-color: black;
+    height: 20px;
+    width: 20px;
+}

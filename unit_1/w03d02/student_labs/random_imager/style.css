@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.card {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    text-align: center;
+    color: ivory;
+    height: 535px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: #403988;
+}
+
+.card:hover {
+    cursor: pointer;
+    background-color: indigo;
+}

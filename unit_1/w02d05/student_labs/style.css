@@ -1,0 +1,94 @@
+@font-face { /*implement local font*/
+    font-family: "MyWebFont";
+    src: url("/font/Retro\ Gaming.ttf")
+}
+
+/* * {
+    border-color: white;
+    border-style: dashed;
+} */
+
+button {
+    font-family: "MyWebFont";
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: "MyWebFont";
+    letter-spacing: .7em;    
+}
+
+h2 {
+    color: white;
+    font-family: "MyWebFont";
+    letter-spacing: 0.2em;    
+}
+
+form {
+    text-align: center;
+}
+
+#music {
+    cursor: pointer;
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+}
+
+body {
+    background-color: black;
+}
+
+#textboxContainer {
+    display: none;
+}
+
+#textbox {
+    font-family: "MyWebFont";
+    font-size: 24px;
+    letter-spacing: normal;
+    padding: 1%;
+    color: white;
+    display: none;
+    border-style: groove;
+    height: fit-content;
+    width: 900px;
+    margin: auto;
+}
+
+#charBoxContainer {
+    position:absolute;
+    display: none;
+}
+
+#charBox {
+    position: relative;
+    image-rendering: pixelated;
+    display: none;
+    width: fit-content;
+    height: fit-content;
+    padding: .3%;
+    border-style: groove;
+    margin: auto;
+}
+
+#charBoxText {
+    font-family: "MyWebFont";
+    color: white;
+    display: inline;
+}
+
+#nextDialogContainer {
+    padding: 1%;
+    text-align: center;
+}
+
+#nextDialog {
+    display: none;
+}
+
+#lastDialogContainer {
+    text-align: center;
+}

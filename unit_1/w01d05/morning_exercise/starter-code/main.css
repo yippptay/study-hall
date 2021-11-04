@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+/* A Complete Guide to Flexbox  */
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+
+* { /* "*" applies to everything in the css file */
+    border: 1px solid gold;
+}
+
+.flex-container {
+    display: flex; /* This defines a flex container; inline or block depending on the given value. It enables a flex context for all its direct children. */
+=======
+* {
+    border: 1px solid gold;
+}
+.flex-container {
+    display: flex;
+>>>>>>> cd111adb1579480cb09838f476953d49de41b385
+    background-color: #e9ece5;
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+<<<<<<< HEAD
+
+.card {
+    color: white;
+    background-color: #b3c2bf;
+    padding: .5em; /* “Ems” (em): The “em” is a scalable unit that is used in web document media. */
+    margin: .3em;
+    flex-basis: 1em; /* A min-width or min-height property */
+    text-align: center;
+}
+
+.selected {
+    background-color: #fae596;
+    color: #40A69A;
+    flex-grow: 2;
+    order: -1;
+}
+=======
+.card {
+    color: white;
+    background-color: #b3c2bf;
+    padding: .5em;
+    margin: .3em;
+    flex-basis: 1em;
+    text-align: center;
+}
+.selected {
+    background-color:  #fae596;
+    color: #40A69A;
+    flex-grow: 2;
+    order: -1;
+  }
+>>>>>>> cd111adb1579480cb09838f476953d49de41b385

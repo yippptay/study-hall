@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPACE</title>
+</head>
+
+<body onload="playMenuAudio()"></body>
+    <audio loop id="mainMenu">
+        <source src="/sounds/Start Menu.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="buttonPressSound">
+        <source src="sounds/2266 - Toggle Click.wav" type="audio/wav">
+    </audio>
+    <audio loop id="dialog">
+        <source src="sounds/sans.mp3" type="audio/mpeg">
+    </audio>
+    <audio loop id="battle">
+        <source src="sounds/Spear of Justice.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="healSound">
+        <source src="sounds/healfx.mp3" type="audio/mpeg">
+    </audio>
+
+    <script>
+        $(document).ready(function(){
+          $("#startBtn").click(function(){
+            // fade out
+            $("#startBtn").fadeOut("slow");
+            $("#playerName").fadeOut("slow");
+            $("#formTitle").fadeOut("slow");
+            $("#gameTitle").fadeOut("slow");
+            // fade in
+            $("#textbox").fadeIn("slow");
+            $("#textboxContainer").fadeIn("slow");
+            $("#nextDialog").fadeIn("slow");
+            $("#charBoxContainer").fadeIn("slow");
+            $("#charBox").fadeIn("slow");
+          });
+          $("#lastDialog").click(function(){
+            // fade out
+            $("#lastDialog").fadeOut("slow");
+            // fade in
+          });
+          $("#heal").click(function(){
+            // fade out
+            $("#heal").fadeOut("slow");
+            // fade in
+          });
+        });
+    </script>
+
+    <h1 id="gameTitle">SPACE GAME</h1>
+
+    <form id="form"> <!-- Take username -->
+        <h2 id="formTitle">ENTER YOUR NAME</h2>
+        <input type="text" id="playerName" name="playerName"> <br> <br>
+        <button type="button" id="startBtn" onclick="buttonPressSound();startGame();pauseMenuAudio();playDialogAudio();">START MY ADVENTURE</button>
+    </form>
+
+    <p id="charBoxContainer">
+        <div id="charBox">
+            <p id="charBoxText">TEXT HERE</p>
+            <div>
+                <img id="charImg" src="/charPortraits/prof.png" height="75px">
+            </div>
+        </div>
+    </p>
+
+    <p id="textboxContainer">
+        <p id="textbox"></p>
+    </p>
+
+    <div id="nextDialogContainer">
+        <button id="nextDialog" type="button" onclick="buttonPressSound();dia();dialogProgress();">Next</button>
+    </div>
+
+    <div id="playerActions" style="display: none; margin: auto; text-align: center;">
+        <input type="image" id="attack" alt="attack" onclick="buttonPressSound();attackFromHtml();enemyAttackFromHtml();" src="/icons/attack.png" style="margin: auto; image-rendering: pixelated; height: 50px;">
+        <input type="image" id="heal" alt="heal" onclick="buttonPressSound();useHeal();enemyAttackFromHtml();" src="/icons/heal.webp" style="margin: auto; image-rendering: pixelated; height: 50px;">
+        <input type="image" id="retreat" alt="retreat" onclick="window.location.reload();" src="./icons/retreat.png" style="display: none; margin: auto; image-rendering: pixelated; height: 50px;">
+    </div>
+
+    <div id="playerLoseActions" style="display: none; margin: auto; text-align: center;">
+        <input type="image" id="playerLose" alt="playerLose" onclick="window.location.reload();" src="/icons/try.png" style="margin: auto; image-rendering: pixelated; height: 50px;">
+    </div>
+
+    <div id="lastDialogContainer">
+        <button id="lastDialog" type="button" style="display: none;margin: auto" onclick="buttonPressSound();dia();dialogProgress();pauseDialogAudio();playBattleAudio()">Let's Fight!</button>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,132 @@
+/* =============
+    VARS
+============= */
+:root {
+    --main-font: 'Open Sans';
+    --accent-font: 'Montserrat';
+}
+/* =============
+    GENERAL
+============= */
+body {
+    background: #e9e9e9;
+    font-family: var(--main-font);
+}
+a {
+    color: #7B7DC0;
+    text-decoration: none;
+    transition: 0.2s ease-in-out;
+}
+a:hover {
+    color: #B2C3CC;
+}
+strong {
+    color: #4E4A5B;
+}
+h1 {
+    margin: 0;
+    font-family: var(--accent-font);
+    font-size: 3em;
+    text-transform: uppercase;
+    color: #645E7F;
+}
+.nav-link {
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: var(--accent-font);
+    font-size: 0.8em;
+    background:  white;
+    border: 1px solid #849fae;
+    padding: 5px 10px;
+    color: #849fae;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+.nav-link:hover {
+    background:  #849fae;
+    color: whitesmoke;
+}
+/* =============
+    CONTAINER
+============= */
+.container {
+    background: #f9f9f9;
+    border-radius: 10px;
+    width: 85%;
+    margin: 100px auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+/* =============
+    TABLE
+============= */
+table {
+    width: 100%;
+    margin-top: 20px;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+.legend {
+    font-family: var(--accent-font);
+    font-size: 1.2em;
+    color: #9B8194;
+}
+/* =============
+    FORM
+============= */
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+label {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #9B8194;
+    width: 45%;
+}
+input {
+    display: block;
+    width: 90%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid  #ccc;
+}
+input:focus {
+    outline: 0;
+    border: 1px solid #849fae;
+}
+input[type="submit"] {
+    border: 0;
+    font-family: var(--accent-font);
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background: #849fae;
+    color: whitesmoke;
+    transition: 0.2s ease-in-out;
+}
+input[type="submit"]:hover {
+    cursor: pointer;
+    background: #9B8194;
+    box-shadow: 2px 2px 3px #ccc;
+}
+/* =============
+    BANK ACC
+============= */
+.negative, .positive {
+    text-align: right;
+    font-family: var(--accent-font);
+}
+.negative {
+    color: #b62f42;
+}
+.positive {
+    color: #84ae93;
+}

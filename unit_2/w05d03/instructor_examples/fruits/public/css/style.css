@@ -1,0 +1,35 @@
+:root {
+    --main-color: red;
+    --secondary-color: blue;
+    --accent: blue;
+
+    --main-font: aerial;
+    --title-font: aerial;
+
+    --page-width: 80%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--main-font);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--title-font);
+}
+
+/* PROJECT STYLE */
+
+img {
+    max-width: 300px;
+}

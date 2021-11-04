@@ -1,0 +1,63 @@
+/* ===========
+    GENERAL
+============ */
+body {
+    font-family: arial;
+}
+.large-container {
+    display: flex;
+    justify-content: space-around;
+}
+/* ===========
+MAIN CONTENT
+============ */
+.main-content {
+    width: 80%;
+}
+.banner > img {
+    width: 100%;
+}
+.categories {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.categories > img {
+    width: 31%;
+}
+.site-info {
+    display: flex;
+    justify-content: space-between;
+}
+.site-info > img {
+    width: 48%;
+}
+/* ===========
+    SIDEBAR
+============ */
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.sidebar > img {
+    width: 25%;
+    opacity: 0.5;
+}
+.cat-nav {
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 20px 0;
+}
+.site-nav {
+    display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+}
+.cat-nav a, .site-nav a {
+    text-decoration: none;
+    margin: 5px 0;
+    color: #ccc;
+}

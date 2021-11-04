@@ -1,0 +1,51 @@
+/* Defaults =============== */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Mobile first design =============== */
+header, div {
+  background: #ccc;
+  margin: 3vh 3vw;
+  border-radius: 10px;
+  text-align: center;
+}
+
+header {
+  height: 10vh;
+}
+
+.b {
+  height: 68vh;
+}
+
+.c {
+  height: 10vh;
+}
+
+/* Media query =============== */
+@media(min-width: 600px){
+  header {
+    height: 20vh;
+  }
+
+  main {
+    display: flex;
+  }
+
+  .b, .c , header {
+    margin: 10px 10px;
+  }
+
+  .b {
+    height: 75vh;
+    width: 70%;
+  }
+
+  .c {
+    height: 75vh;
+    width: 30%;
+  }
+}

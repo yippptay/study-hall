@@ -1,0 +1,236 @@
+# Language Bonanza - Crystal
+
+## Lesson Objectives
+
+-   Interpreted vs Compiled Languages
+-   Using REPL.it to learn a new language
+-   Data Types and Conditionals in the Crystal Programming Language
+-   Loops and Functions in Crystal
+
+### Interpreted vs Compiled Languages
+
+Languages like Javascript, Python and Ruby are "Interpreted Languages" and are usually turned into machine readable code by an interpreter when the code is run, so any errors in the code will create "Runtime Errors". For example, Javascript when it is run in the Google Chrome Browser or by Node it is being interpreted by the Google's V8 Javascript engine.
+
+Languages like Crystal, Rust, and Go are compiled languages and first must be compiled into an executable file before they can be run. So errors usually show up during the compilation process and are called "Compile Time Errors" so there are very few to no run-time errors since the code won't complete compilation unless all errors are addressed, making it rare that the end user sees errors beyond bugs created by bad logic.
+
+### REPL.it
+
+REPL.it is website that allows you to generate a runtime for almost any programming language in the browser. This is a great tool for learning and trying out different programming languages to improve your portfolio of skills.
+
+If you don't already have a REPL.it account, please take a moment and create one now.
+
+# The Crystal Programming Language
+
+From the Crystal Documentation
+
+```
+Crystal is a programming language with the following goals:
+
+Have a syntax similar to Ruby (but compatibility with it is not a goal).
+Be statically type-checked, but without having to specify the type of variables or method arguments.
+Be able to call C code by writing bindings to it in Crystal.
+Have compile-time evaluation and generation of code, to avoid boilerplate code.
+Compile to efficient native code.
+```
+
+## Let's code!
+
+### Setup
+
+1. Go to your REPL.it account and create a new REPL
+2. Select the Crystal Programming Language
+
+### Hello World
+
+First let's do the customary maiden voyage for any programming language with hello world. The syntax for crystal is meant to be very similar to ruby making it very easy to pick up if you've used ruby before.
+
+```
+puts "Hello world!"
+```
+
+### Data Types
+
+Like Javascript, Python and Ruby, Crystal has dynamic typing so you don't need to specify the specific type of variable being assigned to a variable, the crystal compiler will infer it based on the data being assigned.
+
+```
+a = 1
+
+b = "Hello"
+
+c = true
+
+d = nil
+```
+
+#### nil
+
+nil represents the absence of value, similar to null in Javascript
+
+#### Bool
+
+A Bool type variable can hold either **true** or **false**
+
+#### Integer
+
+Whole numbers like 1 and 2
+
+#### Float
+
+Numbers with a decimal place like 5.65 and 4.42
+
+#### Char
+
+A single character such as 'a'
+
+#### String
+
+A collection of characters such as "hello there"
+
+#### Array
+
+An indexed collection of data denoted with []
+
+```
+myArr = [1,2,3]
+puts myArr[2] # => Prints 3
+```
+
+#### Hash
+
+A collection of key value pairs using the syntax of {key => value}
+
+```
+myHash = {"name" => "Alex Merced", "age" => 34}
+puts myHash["name"]
+```
+
+#### proc
+
+Is syntax for defining anonymous functions (like arrow functions in javascript)
+
+```
+
+# A proc without arguments
+hello = ->{ puts "Hello" }
+hello.call()
+
+# A proc with one argument
+printNumber = ->(x : Int32) { puts x }
+printNumber.call(5)
+
+```
+
+### Conditionals
+
+#### if
+
+the syntax for if statements is the following:
+
+```
+myVar = "foo"
+
+if myVar == "foo"
+  puts myVar
+else
+  puts "oops"
+end
+
+```
+
+#### unless
+
+Like an if statement but the code runs if the expression evaluates as false
+
+```
+myVar = "foo"
+
+unless myVar == "foo"
+  puts myVar
+else
+  puts "oops"
+end
+
+```
+
+#### case
+
+These work like switch statements in javascript test data against several possible cases.
+
+```
+myVar = "foo"
+
+case myVar
+when "foo"
+  puts myVar
+when "bar"
+  puts "oh my"
+else
+  puts "and here we are"
+end
+```
+
+### Loops
+
+#### while
+
+A standard while loop that loops as long as the expression evaluates true
+
+```
+loops = 0
+
+while loops < 6
+ puts loops
+ loops = loops + 1
+end
+```
+
+#### until
+
+like a while loop but only loops if the expression evaluates to false
+
+```
+loops = 0
+
+until loops > 6
+ puts loops
+ loops = loops + 1
+end
+```
+
+### functions
+
+Everything is an object in crystal so all functions are called as a method of an object. The simplest way to write a function in crystal is to assign a Proc to a variable and use .call() function to invoke the proc.
+
+```
+helloWorld = -> {puts "hello world"}
+
+helloWorld.call()
+```
+
+## Practice Time
+
+-   feel free to search for more information such as how to determine the length of a data collection or how to iterate over them.
+
+Attempt to do the following on your own:
+
+1. assign a integer to a variable and print it to the console
+
+2. assign a string to a variable and print it to the console
+
+3. write an if statement that runs if a variable called myVar is greater than 5, test it out with different Numbers
+
+4. Write an unless statement that runs if a variable called myVar isn't greater than 5 and test it out with different Numbers
+
+5. write a case statement with at least 2 whens and test them out
+
+6. create an array with 5 elements and use a while loop to print each of its values
+
+7. create a hash with at least 3 properties and print one of its properties to the console
+
+8. create an array with 5 elements and use a until loop to print each its evaluates
+
+9. create a function that takes 2 numbers as arguments and adds them
+
+10. create a function that takes 2 numbers as arguments and subtracts them
+
+11. create a function that takes 2 strings and concatenates them

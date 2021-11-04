@@ -1,0 +1,15 @@
+# Explain Why Good Software Design is Important
+## In your own words, explain why good design is important.
+### As software design is performed by creating modules, it makes the task easier to maintain. Tasks like finding bugs, debugging, restructuring, and changing the functionality of specific elements in the software application become quite easy due to software design.
+
+## Identify Good Design
+### Code should be modular with well-defined interfaces, inputs and outputs and with code and data encapsulation. It should be elegant and no more complex than necessary. There should be minimal inter-dependencies, no hidden dependencies and limited platform-specific dependencies.
+
+## Design Heuristics
+### Keep users informed about its status appropriately and promptly.
+Show information in ways users understand from how the real world operates, and in the users’ language. Offer users control and let them undo errors easily. Be consistent so users aren’t confused over what different words, icons, etc. mean. Prevent errors – a system should either avoid conditions where errors arise or warn users before they take risky actions (e.g., “Are you sure you want to do this?” messages). Have visible information, instructions, etc. to let users recognize options, actions, etc. instead of forcing them to rely on memory.Be flexible so experienced users find faster ways to attain goals. Have no clutter, containing only relevant information for current tasks. Provide plain-language help regarding errors and solutions. List concise steps in lean, searchable documentation for overcoming problems.
+
+## Refactorings
+### Remove middle man is my favorite, realizing that I didn't KISS my code.
+### Combine Functions into Transform makes a group a functions cleaner as well as easier to find.
+### Inline Function is very common for me and is sometimes easier for me to read.

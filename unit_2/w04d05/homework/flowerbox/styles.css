@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+}
+
+body {
+    background: rgb(245, 245, 245);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    width: 85%;
+}
+
+.nav {
+    background-color:  #92b2ba;
+    color: whitesmoke;
+    display: flex;
+    font-size: 2vw;
+    height: 10vh;
+    margin-top: 2%;
+    text-align: center;
+    width: 100%;
+}
+
+.nav-ul {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-right: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.title-container {
+    align-items: flex-end;
+    background-image: url(./imgs/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 60rem;
+    justify-content: center;
+    margin: 3% 0px;
+    width: 100%;
+}
+
+.title-container > h1 {
+    color: #92b2ba;
+    display: flex;
+    font-size: 13rem;
+    margin-right: 3.5rem;
+    text-shadow: 3px 3px 3px #FFFFFF;
+}
+
+.title-container > h2 {
+    color: #f0a8bb;
+    background-color: whitesmoke;
+    font-size: 4rem;
+    padding: 1.25vm;
+    margin-right: 3.5rem;
+}
+
+.item-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 8%;
+    margin-top: -2%;
+}
+
+.item {
+    -moz-box-shadow:    5px 5px 0px 0px rgb(237, 237, 237);
+    -webkit-box-shadow: 5px 5px 0px 0px rgb(237, 237, 237);
+    background-color: rgb(255, 255, 255);
+    box-shadow:         5px 5px 0px 0px rgb(237, 237, 237);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 7.5rem auto;
+    object-fit: contain;
+    width: 31%;
+}
+
+.item > img {
+    width: 100%;
+    height: 100%;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.item-mid {
+    -moz-box-shadow:    5px 5px 0px 0px rgb(237, 237, 237);
+    -webkit-box-shadow: 5px 5px 0px 0px rgb(237, 237, 237);
+    background-color: rgb(255, 255, 255);
+    box-shadow:         5px 5px 0px 0px rgb(237, 237, 237);
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-bottom > ul {
+    -moz-box-shadow:    5px 5px 0px 0px rgb(237, 237, 237);
+    -webkit-box-shadow: 5px 5px 0px 0px rgb(237, 237, 237);
+    background-color: rgb(255, 255, 255);
+    box-shadow:         5px 5px 0px 0px rgb(237, 237, 237);
+    display: flex;
+    flex-wrap: wrap;
+    height: fit-content;
+    list-style: none;
+    padding: 0;
+}
+
+.item-bottom > ul > li {
+    background-color: rgb(218, 218, 218);
+    color: rgb(56, 56, 56);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.25rem;
+    margin-bottom: 2.5rem;
+    margin-left: 1.5rem;
+    margin-right: 1rem;
+    padding: 8px;
+    text-transform: uppercase;
+}
+
+.price {
+    align-items: center;
+    background-color: #f0a8bb;
+    color: white;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 900;
+    margin: 1rem;
+    padding: 7px;
+}
+
+.name {
+    color: #7f9fa7;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    margin-left: 16px;
+}
+
+footer {
+    display: flex;
+    height: 15vh;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 3% 0px;
+    margin-top: -1%;
+    background-color: rgb(228, 228, 228);
+    padding: 6vh 0px;
+}
+
+.logo {
+    width: 20%;
+    height: auto;
+}
+
+.footer-item {
+    width: 20%;
+    font-size: 2rem;
+}
+
+.footer-item > ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-li > a{
+    text-decoration: none;
+    color: rgb(112, 112, 112);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    text-transform: uppercase;
+    border-left: 1px solid gray;
+    float:left;
+}
+
+.logo-and-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    align-items: center;
+}
+
+.footer-header {
+    color: #7f9fa7;
+    margin: 1rem 0rem;
+    font-size: 2.75rem;
+}
+
+.icon-wrapper {
+    display: flex;
+    color: grey;
+    font-size: 3rem;
+    margin-top: 1rem;
+}
+
+.logo-and-links > h4 {
+    color: #f0a8bb;
+    text-transform: uppercase;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+.seperate {
+    margin: 0px 1rem;
+}
