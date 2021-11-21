@@ -37,7 +37,6 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w03d3 |[Build a Modal](./unit_1/w03d03/morning_exercise)| [Event Bubbling, DOM - capturing input, iteration, more on targets](./unit_1/w03d03/instructor_notes)| [Calculator, To Do List](./unit_1/w03d03/student_labs)|[To Do List cont'd](./unit_1/w03d03/homework)|
 | w03d4 |[Corgi Carousel](./unit_1/w03d04/morning_exercise)| [DOM using events in a loop - color picker, DOM using events in a loop - sketchpad](./unit_1/w03d04/instructor_notes)| [Shape Clicker, Tic Tac Toe](./unit_1/w03d04/student_labs)|[Tic Tac Toe cont'd](./unit_1/w03d04/homework)|
 | w03d5 |[Flying Newspaper](./unit_1/w03d05/morning_exercise)| [AJAX, Code organization](./unit_1/w03d05/instructor_notes)| [AJAX](./unit_1/w03d05/student_labs)|[AJAX Lab cont'd](./unit_1/w03d05/homework)|
-| w03d5 |[](./unit_1/w03d05/morning_exercise)| [](./unit_1/w03d05/instructor_notes)| [](./unit_1/w03d05/student_labs)|[](./unit_1/w03d05/homework)|
 | w04d1 |[](./unit_1/w04d01/morning_exercise)| [](./unit_1/w04d01/instructor_notes)| [](./unit_1/w04d01/student_labs)|[](./unit_1/w04d01/homework)|
 | w04d2 |[](./unit_1/w04d02/morning_exercise)| [](./unit_1/w04d02/instructor_notes)| [](./unit_1/w04d02/student_labs)|[](./unit_1/w04d02/homework)|
 | w04d3 |[](./unit_1/w04d03/morning_exercise)| [](./unit_1/w04d03/instructor_notes)| [](./unit_1/w04d03/student_labs)|[](./unit_1/w04d03/homework)|
