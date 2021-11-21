@@ -40,3 +40,4 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w03d5 |[](./unit_1/w03d05/morning_exercise)| [](./unit_1/w03d05/instructor_notes)| [](./unit_1/w03d05/student_labs)|[](./unit_1/w03d05/homework)|
 | w04d1 |[](./unit_1/w04d01/morning_exercise)| [](./unit_1/w04d01/instructor_notes)| [](./unit_1/w04d01/student_labs)|[](./unit_1/w04d01/homework)|
 | w04d2 |[](./unit_1/w04d02/morning_exercise)| [](./unit_1/w04d02/instructor_notes)| [](./unit_1/w04d02/student_labs)|[](./unit_1/w04d02/homework)|
+| w04d3 |[](./unit_1/w04d03/morning_exercise)| [](./unit_1/w04d03/instructor_notes)| [](./unit_1/w04d03/student_labs)|[](./unit_1/w04d03/homework)|
