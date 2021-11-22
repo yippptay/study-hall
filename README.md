@@ -2,12 +2,10 @@
 
 # SEIR-Nova
 
-![nova](https://secureservercdn.net/198.71.233.195/r7q.b02.myftpupload.com/wp-content/uploads/2019/10/nova-mcu-top-1024x576.jpg)
-
 # Team
 
 Alex Merced - Instructional Lead <br>
-Ayla Ex - Instructional Associate(In Class) <br>
+Ayla Ex - Instructional Associate (In Class) <br>
 Jerrica Bobadilla - Instructional Associate (In Class) <br>
 Arthur Bernier Jr - Instructional Lead <br>
 Yanny Castrillon - Instructional Associate (Out Of Class) <br>
@@ -17,9 +15,8 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 1. All content is licensed under a CC­BY­NC­SA 4.0 license.
 1. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
 
-# Schedule
+# Table of Contents
 
-### Unit 1
 | Day | Morning Exercise | Lectures | Labs | Homework |
 |:---:|:-----------:|:-------:|:-----------:|:-----------:|
 | w01d1 |[](./unit_1/w01d01/morning_exercise)| [Intro and Expectations, Navigating in the Terminal, Getting Started Right](./unit_1/w01d01/instructor_notes)| [Getting Started Right](./unit_1/w01d02/student_labs)|[Getting Started Right](./unit_1/w01d01/homework)|
@@ -40,5 +37,15 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w04d1 |[N/A](./unit_1/w04d01/morning_exercise)| [N/A](./unit_1/w04d01/instructor_notes)| [N/A](./unit_1/w04d01/student_labs)|[N/A](./unit_1/w04d01/homework)|
 | w04d2 |[N/A](./unit_1/w04d02/morning_exercise)| [N/A](./unit_1/w04d02/instructor_notes)| [N/A](./unit_1/w04d02/student_labs)|[N/A](./unit_1/w04d02/homework)|
 | w04d3 |[N/A](./unit_1/w04d03/morning_exercise)| [N/A](./unit_1/w04d03/instructor_notes)| [N/A](./unit_1/w04d03/student_labs)|[N/A](./unit_1/w04d03/homework)|
-| w04d4 |[N/A](./unit_1/w04d03/morning_exercise)| [Install Mongo](./unit_1/w04d04/instructor_notes)| [N/A](./unit_1/w04d04/student_labs)|[Intro to Internet and Servers + Course Survey](./unit_1/w04d04/homework)|
-| w04d5 |[Project 1 Assessment](./unit_1/w04d03/morning_exercise)| [Intro to Express](./unit_1/w04d05/instructor_notes)| [Lab - Express + CALCULATOR](./unit_1/w04d05/student_labs)|[](./unit_1/w04d05/homework)|
+| w04d4 |[N/A](./unit_1/w04d04/morning_exercise)| [Install Mongo](./unit_1/w04d04/instructor_notes)| [N/A](./unit_1/w04d04/student_labs)|[Intro to Internet and Servers + Course Survey](./unit_1/w04d04/homework)|
+| w04d5 |[Project 1 Assessment](./unit_1/w04d05/morning_exercise)| [Intro to Express](./unit_1/w04d05/instructor_notes)| [Lab - Express + CALCULATOR](./unit_1/w04d05/student_labs)|[TV Shows + Flowerbox Mockup](./unit_1/w04d05/homework)|
+| w05d1 |[](./unit_1/w05d01/morning_exercise)| [](./unit_1/w05d01/instructor_notes)| [](./unit_1/w05d01/student_labs)|[](./unit_1/w05d01/homework)|
+| w05d2 |[](./unit_1/w05d02/morning_exercise)| [](./unit_1/w05d02/instructor_notes)| [](./unit_1/w05d02/student_labs)|[](./unit_1/w05d02/homework)|
+| w05d3 |[](./unit_1/w05d03/morning_exercise)| [](./unit_1/w05d03/instructor_notes)| [](./unit_1/w05d03/student_labs)|[](./unit_1/w05d03/homework)|
+| w05d4 |[](./unit_1/w05d04/morning_exercise)| [](./unit_1/w05d04/instructor_notes)| [](./unit_1/w05d04/student_labs)|[](./unit_1/w05d04/homework)|
+| w05d5 |[](./unit_1/w05d05/morning_exercise)| [](./unit_1/w05d05/instructor_notes)| [](./unit_1/w05d05/student_labs)|[](./unit_1/w05d05/homework)|
+| w06d1 |[](./unit_1/w06d01/morning_exercise)| [](./unit_1/w06d01/instructor_notes)| [](./unit_1/w06d01/student_labs)|[](./unit_1/w06d01/homework)|
+| w06d2 |[](./unit_1/w06d02/morning_exercise)| [](./unit_1/w06d02/instructor_notes)| [](./unit_1/w06d02/student_labs)|[](./unit_1/w06d02/homework)|
+| w06d3 |[](./unit_1/w06d03/morning_exercise)| [](./unit_1/w06d03/instructor_notes)| [](./unit_1/w06d03/student_labs)|[](./unit_1/w06d03/homework)|
+| w06d4 |[](./unit_1/w06d04/morning_exercise)| [](./unit_1/w06d04/instructor_notes)| [](./unit_1/w06d04/student_labs)|[](./unit_1/w06d04/homework)|
+| w06d5 |[](./unit_1/w06d05/morning_exercise)| [](./unit_1/w06d05/instructor_notes)| [](./unit_1/w06d05/student_labs)|[](./unit_1/w06d05/homework)|
