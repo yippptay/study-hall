@@ -48,9 +48,9 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w06d2 |["Mondrian" CSS Exercise](./unit_1/w06d02/morning_exercise)| [CRUD App with Mongoose - Delete and Update](./unit_1/w06d02/instructor_notes)| [N/A](./unit_1/w06d02/student_labs)|[N/A](./unit_1/w06d02/homework)|
 | w06d3 |[Coding Challenge](./unit_1/w06d03/morning_exercise)| [Build Me 1, 2, 3, 4](./unit_1/w06d03/instructor_notes)| [N/A](./unit_1/w06d03/student_labs)|[Complete Captain's Log](./unit_1/w06d03/homework)|
 | w06d4 |[Coding Challenges](./unit_1/w06d04/morning_exercise)| [Heroku Deployment](./unit_1/w06d04/instructor_notes)| [N/A](./unit_1/w06d04/student_labs)|[N/A](./unit_1/w06d04/homework)|
-| w06d5 |[](./unit_1/w06d05/morning_exercise)| [](./unit_1/w06d05/instructor_notes)| [](./unit_1/w06d05/student_labs)|[](./unit_1/w06d05/homework)|
-| w07d1 |[](./unit_1/w07d01/morning_exercise)| [](./unit_1/w07d01/instructor_notes)| [](./unit_1/w07d01/student_labs)|[](./unit_1/w07d01/homework)|
-| w07d2 |[](./unit_1/w07d02/morning_exercise)| [](./unit_1/w07d02/instructor_notes)| [](./unit_1/w07d02/student_labs)|[](./unit_1/w07d02/homework)|
-| w07d3 |[](./unit_1/w07d03/morning_exercise)| [](./unit_1/w07d03/instructor_notes)| [](./unit_1/w07d03/student_labs)|[](./unit_1/w07d03/homework)|
-| w07d4 |[](./unit_1/w07d04/morning_exercise)| [](./unit_1/w07d04/instructor_notes)| [](./unit_1/w07d04/student_labs)|[](./unit_1/w07d04/homework)|
-| w07d5 |[](./unit_1/w07d05/morning_exercise)| [](./unit_1/w07d05/instructor_notes)| [](./unit_1/w07d05/student_labs)|[](./unit_1/w07d05/homework)|
+| w06d5 |[N/A](./unit_1/w06d05/morning_exercise)| [N/A](./unit_1/w06d05/instructor_notes)| [N/A](./unit_1/w06d05/student_labs)|[N/A](./unit_1/w06d05/homework)|
+| w07d1 |[N/A](./unit_1/w07d01/morning_exercise)| [N/A](./unit_1/w07d01/instructor_notes)| [N/A](./unit_1/w07d01/student_labs)|[N/A](./unit_1/w07d01/homework)|
+| w07d2 |[N/A](./unit_1/w07d02/morning_exercise)| [N/A](./unit_1/w07d02/instructor_notes)| [N/A](./unit_1/w07d02/student_labs)|[N/A](./unit_1/w07d02/homework)|
+| w07d3 |[N/A](./unit_1/w07d03/morning_exercise)| [N/A](./unit_1/w07d03/instructor_notes)| [N/A](./unit_1/w07d03/student_labs)|[N/A](./unit_1/w07d03/homework)|
+| w07d4 |[N/A](./unit_1/w07d04/morning_exercise)| [Project 2 Assessment](./unit_1/w07d04/instructor_notes)| [N/A](./unit_1/w07d04/student_labs)|[Intro to Spa](./unit_1/w07d04/homework)|
+| w07d5 |[](./unit_1/w07d05/morning_exercise)| [](./unit_1/w07d05/instructor_notes)| [Big Poppa Code React Starter Kit](./unit_1/w07d05/student_labs)|[](./unit_1/w07d05/homework)|
