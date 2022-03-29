@@ -17,6 +17,7 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 
 # Table of Contents
 
+## Unit 1
 | Day | Morning Exercise | Lectures | Labs | Homework |
 |:---:|:-----------:|:-------:|:-----------:|:-----------:|
 | w01d1 |[](./unit_1/w01d01/morning_exercise)| [Intro and Expectations, Navigating in the Terminal, Getting Started Right](./unit_1/w01d01/instructor_notes)| [Getting Started Right](./unit_1/w01d02/student_labs)|[Getting Started Right](./unit_1/w01d01/homework)|
