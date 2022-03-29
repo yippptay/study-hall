@@ -37,7 +37,7 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w04d1 |[N/A](./unit_1/w04d01/morning_exercise)| [N/A](./unit_1/w04d01/instructor_notes)| [N/A](./unit_1/w04d01/student_labs)|[N/A](./unit_1/w04d01/homework)|
 | w04d2 |[N/A](./unit_1/w04d02/morning_exercise)| [N/A](./unit_1/w04d02/instructor_notes)| [N/A](./unit_1/w04d02/student_labs)|[N/A](./unit_1/w04d02/homework)|
 | w04d3 |[N/A](./unit_1/w04d03/morning_exercise)| [N/A](./unit_1/w04d03/instructor_notes)| [N/A](./unit_1/w04d03/student_labs)|[N/A](./unit_1/w04d03/homework)|
-| w04d4 |[N/A](./unit_1/w04d04/morning_exercise)| [Install Mongo](./unit_1/w04d04/instructor_notes)| [N/A](./unit_1/w04d04/student_labs)|[Intro to Internet and Servers + Course Survey](./unit_1/w04d04/homework)|
+| w04d4 |[N/A](./unit_2/w04d04/morning_exercise)| [Install Mongo](./unit_2/w04d04/instructor_notes)| [N/A](./unit_2/w04d04/student_labs)|[Intro to Internet and Servers + Course Survey](./unit_2/w04d04/homework)|
 | w04d5 |[Project 1 Assessment](./unit_1/w04d05/morning_exercise)| [Intro to Express](./unit_1/w04d05/instructor_notes)| [Lab - Express + CALCULATOR](./unit_1/w04d05/student_labs)|[TV Shows + Flowerbox Mockup](./unit_1/w04d05/homework)|
 | w05d1 |[Bootstrap - CSS Frameworks](./unit_1/w05d01/morning_exercise)| [URL and Query Parameters + Templating with JSX](./unit_1/w05d01/instructor_notes)| [Express Calculator](./unit_1/w05d01/student_labs)|[First Express Homework](./unit_1/w05d01/homework)|
 | w05d2 |[Hello World Mockup w/ Bootstrap](./unit_1/w05d02/morning_exercise)| [MVC + Intro to REST](./unit_1/w05d02/instructor_notes)| [Fruits and a Mission to Mars + Superheroes need REST Too](./unit_1/w05d02/student_labs)|[Git Pub](./unit_1/w05d02/homework)|
