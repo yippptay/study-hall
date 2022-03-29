@@ -53,4 +53,4 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w07d2 |[N/A](./unit_1/w07d02/morning_exercise)| [N/A](./unit_1/w07d02/instructor_notes)| [N/A](./unit_1/w07d02/student_labs)|[N/A](./unit_1/w07d02/homework)|
 | w07d3 |[N/A](./unit_1/w07d03/morning_exercise)| [N/A](./unit_1/w07d03/instructor_notes)| [N/A](./unit_1/w07d03/student_labs)|[N/A](./unit_1/w07d03/homework)|
 | w07d4 |[N/A](./unit_1/w07d04/morning_exercise)| [Project 2 Assessment](./unit_1/w07d04/instructor_notes)| [N/A](./unit_1/w07d04/student_labs)|[Intro to Spa](./unit_1/w07d04/homework)|
-| w07d5 |[](./unit_1/w07d05/morning_exercise)| [](./unit_1/w07d05/instructor_notes)| [Big Poppa Code React Starter Kit](./unit_1/w07d05/student_labs)|[](./unit_1/w07d05/homework)|
+| w07d5 |[](./unit_2/w07d05/morning_exercise)| [](./unit_2/w07d05/instructor_notes)| [Big Poppa Code React Starter Kit](./unit_2/w07d05/student_labs)|[](./unit_2/w07d05/homework)|
