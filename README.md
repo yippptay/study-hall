@@ -75,4 +75,5 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w09d3 | [N/A](./unit_3/w09d03/morning_exercise)| [N/A](./unit_3/w09d03/instructor_notes)| [N/A](./unit_3/w09d03/student_labs)|[N/A](./unit_3/w09d03/homework)|
 | w09d4 | [N/A](./unit_3/w09d04/morning_exercise)| [N/A](./unit_3/w09d04/instructor_notes)| [N/A](./unit_3/w09d04/student_labs)|[N/A](./unit_3/w09d04/homework)|
 | w09d5 | [N/A](./unit_3/w09d05/morning_exercise)| [N/A](./unit_3/w09d05/instructor_notes)| [N/A](./unit_3/w09d05/student_labs)|[N/A](./unit_3/w09d05/homework)|
+| Assesment | | | |[Assesment](./unit_3/assesment.md)|
 | w09d1 | [N/A](./unit_3/w09d01/morning_exercise)| [N/A](./unit_3/w09d01/instructor_notes)| [N/A](./unit_3/w09d01/student_labs)|[N/A](./unit_3/w09d01/homework)|
