@@ -69,7 +69,7 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w08d2 | [N/A](./unit_3/w08d02/morning_exercise)| [Intro to Create React App + Intro to AJAX and Rendering the Data with React + Refactor async await](./unit_3/w08d02/instructor_notes)| [SUPERHERO AND VILLIAN GROUP LAB + Random Taco!](./unit_3/w08d02/student_labs)|[jService API](./unit_3/w08d02/homework)|
 | w08d3 | [HAPPY FUN BALL](./unit_3/w08d03/morning_exercise)| [Create an API + MERN Stack](./unit_3/w08d03/instructor_notes)| [N/A](./unit_3/w08d03/student_labs)|[Finish HFB](./unit_3/w08d03/homework)|
 | w08d4 | [Collaborating with GitHub](./unit_3/w08d04/morning_exercise)| [Intro to React Hooks + React Router](./unit_3/w08d04/instructor_notes)| [N/A](./unit_3/w08d04/student_labs)|[Bookmark'd](./unit_3/w08d04/homework)|
-| w08d5 | [N/A](./unit_3/w08d05/morning_exercise)| [N/A](./unit_3/w08d05/instructor_notes)| [N/A](./unit_3/w08d05/student_labs)|[N/A](./unit_3/w08d05/homework)|
+| w08d5 | [N/A](./unit_3/w08d05/morning_exercise)| [React: Authentication with JWTs](./unit_3/w08d05/instructor_notes)| [N/A](./unit_3/w08d05/student_labs)|[N/A](./unit_3/w08d05/homework)|
 | w09d1 | [N/A](./unit_3/w09d01/morning_exercise)| [N/A](./unit_3/w09d01/instructor_notes)| [N/A](./unit_3/w09d01/student_labs)|[N/A](./unit_3/w09d01/homework)|
 | w09d2 | [N/A](./unit_3/w09d02/morning_exercise)| [N/A](./unit_3/w09d02/instructor_notes)| [N/A](./unit_3/w09d02/student_labs)|[N/A](./unit_3/w09d02/homework)|
 | w09d3 | [N/A](./unit_3/w09d03/morning_exercise)| [N/A](./unit_3/w09d03/instructor_notes)| [N/A](./unit_3/w09d03/student_labs)|[N/A](./unit_3/w09d03/homework)|
