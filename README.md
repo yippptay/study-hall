@@ -80,9 +80,9 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 ## Unit 4
 | Day | Morning Exercise | Lectures | Labs | Homework |
 |:---:|:-----------:|:-------:|:-----------:|:-----------:|
-| w010d1 | [N/A](./unit_4/w10d01/morning_exercise)| [N/A](./unit_4/w10d01/instructor_notes)| [N/A](./unit_4/w10d01/student_labs)|[N/A](./unit_4/w10d01/homework)|
-| w010d2 | [N/A](./unit_4/w10d02/morning_exercise)| [N/A](./unit_4/w10d02/instructor_notes)| [N/A](./unit_4/w10d02/student_labs)|[N/A](./unit_4/w10d02/homework)|
-| w010d3 | [N/A](./unit_4/w10d03/morning_exercise)| [N/A](./unit_4/w10d03/instructor_notes)| [N/A](./unit_4/w10d03/student_labs)|[N/A](./unit_4/w10d03/homework)|
-| w010d4 | [N/A](./unit_4/w10d04/morning_exercise)| [N/A](./unit_4/w10d04/instructor_notes)| [N/A](./unit_4/w10d04/student_labs)|[N/A](./unit_4/w10d04/homework)|
-| w010d5 | [N/A](./unit_4/w10d05/morning_exercise)| [N/A](./unit_4/w10d05/instructor_notes)| [N/A](./unit_4/w10d05/student_labs)|[N/A](./unit_4/w10d05/homework)|
+| w010d1 | [N/A](./unit_4/w10d01/morning_exercise)| [N/A](./unit_4/w10d01/instructor_notes)| [N/A](./unit_4/w10d01/student_labs)|[Unit 4 Installation + Jump Start](./unit_4/w10d01/homework)|
+| w010d2 | [Language Bonanza - Crystal/GO/Ruby](./unit_4/w10d02/morning_exercise)| [N/A](./unit_4/w10d02/instructor_notes)| [N/A](./unit_4/w10d02/student_labs)|[Python Practice + CS Modules](./unit_4/w10d02/homework)|
+| w010d3 | [Study Hall](./unit_4/w10d03/morning_exercise)| [N/A](./unit_4/w10d03/instructor_notes)| [Python vs. Javascript - The Differences](./unit_4/w10d03/student_labs)|[Python Blackjack](./unit_4/w10d03/homework)|
+| w010d4 | [Study Hall](./unit_4/w10d04/morning_exercise)| [Intro to Django](./unit_4/w10d04/instructor_notes)| [Python Containers + Python Functions](./unit_4/w10d04/student_labs)|[N/A](./unit_4/w10d04/homework)|
+| w010d5 | [N/A](./unit_4/w10d05/morning_exercise)| [SQL](./unit_4/w10d05/instructor_notes)| [Computers & Televisions + Airplanes & Airports + Realty](./unit_4/w10d05/student_labs)|[SQL Practice - Carmen Sandiego and NFL](./unit_4/w10d05/homework)|
 | w010d1 | [N/A](./unit_4/w10d01/morning_exercise)| [N/A](./unit_4/w10d01/instructor_notes)| [N/A](./unit_4/w10d01/student_labs)|[N/A](./unit_4/w10d01/homework)|
