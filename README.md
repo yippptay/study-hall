@@ -66,17 +66,7 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w07d4 | [N/A](./unit_3/w07d04/morning_exercise)| [N/A](./unit_3/w07d04/instructor_notes)| [N/A](./unit_3/w07d04/student_labs)|[Intro to SPA and CS](./unit_3/w07d04/homework)|
 | w07d5 | [Introduction to Codewars](./unit_3/w07d05/morning_exercise)| [Introduction to React](./unit_3/w07d05/instructor_notes)| [React Static Components + Korrila React Receipts](./unit_3/w07d05/student_labs)|[Build 10 React Components](./unit_3/w07d05/homework)|
 | w08d1 | [Intro to Sass](./unit_3/w08d01/morning_exercise)| [Intro to Conditional Rendering in React Revisitied + React State Forms](./unit_3/w08d01/instructor_notes)| [Audubon Society Bird Photo Contest](./unit_3/w08d01/student_labs)|[Coding Challenge: maxChar](./unit_3/w08d01/homework)|
-| w08d2 | [N/A](./unit_3/w08d02/morning_exercise)| [N/A](./unit_3/w08d02/instructor_notes)| [N/A](./unit_3/w08d02/student_labs)|[N/A](./unit_3/w08d02/homework)|
+| w08d2 | [N/A](./unit_3/w08d02/morning_exercise)| [Intro to Create React App + Intro to AJAX and Rendering the Data with React + Refactor async await](./unit_3/w08d02/instructor_notes)| [SUPERHERO AND VILLIAN GROUP LAB + Random Taco!](./unit_3/w08d02/student_labs)|[jService API](./unit_3/w08d02/homework)|
 | w08d3 | [N/A](./unit_3/w08d03/morning_exercise)| [N/A](./unit_3/w08d03/instructor_notes)| [N/A](./unit_3/w08d03/student_labs)|[N/A](./unit_3/w08d03/homework)|
 | w08d4 | [N/A](./unit_3/w08d04/morning_exercise)| [N/A](./unit_3/w08d04/instructor_notes)| [N/A](./unit_3/w08d04/student_labs)|[N/A](./unit_3/w08d04/homework)|
 | w08d5 | [N/A](./unit_3/w08d05/morning_exercise)| [N/A](./unit_3/w08d05/instructor_notes)| [N/A](./unit_3/w08d05/student_labs)|[N/A](./unit_3/w08d05/homework)|
-| w09d1 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
-| w09d2 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
-| w09d3 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
-| w09d4 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
-| w09d5 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
-| w10d1 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
-| w10d2 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
-| w10d3 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
-| w10d4 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
-| w10d5 | [N/A](./unit_3/w08d01/morning_exercise)| [N/A](./unit_3/w08d01/instructor_notes)| [N/A](./unit_3/w08d01/student_labs)|[N/A](./unit_3/w08d01/homework)|
