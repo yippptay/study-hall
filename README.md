@@ -95,3 +95,12 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | Day | Morning Exercise | Lectures | Labs | Homework |
 |:---:|:-----------:|:-------:|:-----------:|:-----------:|
 | w012d1 | [N/A](./unit_5/w12d01/morning_exercise)| [N/A](./unit_5/w12d01/instructor_notes)| [N/A](./unit_5/w12d01/student_labs)|[N/A](./unit_5/w12d01/homework)|
+| w012d2 | [N/A](./unit_5/w12d02/morning_exercise)| [N/A](./unit_5/w12d02/instructor_notes)| [N/A](./unit_5/w12d02/student_labs)|[N/A](./unit_5/w12d02/homework)|
+| w012d3 | [N/A](./unit_5/w12d03/morning_exercise)| [N/A](./unit_5/w12d03/instructor_notes)| [N/A](./unit_5/w12d03/student_labs)|[N/A](./unit_5/w12d03/homework)|
+| w012d4 | [N/A](./unit_5/w12d04/morning_exercise)| [N/A](./unit_5/w12d04/instructor_notes)| [N/A](./unit_5/w12d04/student_labs)|[N/A](./unit_5/w12d04/homework)|
+| w012d5 | [N/A](./unit_5/w12d05/morning_exercise)| [N/A](./unit_5/w12d05/instructor_notes)| [N/A](./unit_5/w12d05/student_labs)|[N/A](./unit_5/w12d05/homework)|
+| w013d1 | [N/A](./unit_5/w13d01/morning_exercise)| [N/A](./unit_5/w13d01/instructor_notes)| [N/A](./unit_5/w13d01/student_labs)|[N/A](./unit_5/w13d01/homework)|
+| w013d2 | [N/A](./unit_5/w13d02/morning_exercise)| [N/A](./unit_5/w13d02/instructor_notes)| [N/A](./unit_5/w13d02/student_labs)|[N/A](./unit_5/w13d02/homework)|
+| w013d3 | [N/A](./unit_5/w13d03/morning_exercise)| [N/A](./unit_5/w13d03/instructor_notes)| [N/A](./unit_5/w13d03/student_labs)|[N/A](./unit_5/w13d03/homework)|
+| w013d4 | [N/A](./unit_5/w13d04/morning_exercise)| [N/A](./unit_5/w13d04/instructor_notes)| [N/A](./unit_5/w13d04/student_labs)|[N/A](./unit_5/w13d04/homework)|
+| w013d5 | [N/A](./unit_5/w13d05/morning_exercise)| [N/A](./unit_5/w13d05/instructor_notes)| [N/A](./unit_5/w13d05/student_labs)|[N/A](./unit_5/w13d05/homework)|
