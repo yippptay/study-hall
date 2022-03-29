@@ -80,9 +80,9 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 ## Unit 4
 | Day | Morning Exercise | Lectures | Labs | Homework |
 |:---:|:-----------:|:-------:|:-----------:|:-----------:|
-| w010d1 | [N/A](./unit_4/w10d01/morning_exercise)| [N/A](./unit_4 /w10d01/instructor_notes)| [N/A](./unit_4/w10d01/student_labs)|[N/A](./unit_4/w10d01/homework)|
-| w010d2 | [N/A](./unit_4/w10d02/morning_exercise)| [N/A](./unit_4 /w10d02/instructor_notes)| [N/A](./unit_4/w10d02/student_labs)|[N/A](./unit_4/w10d02/homework)|
-| w010d3 | [N/A](./unit_4/w10d03/morning_exercise)| [N/A](./unit_4 /w10d03/instructor_notes)| [N/A](./unit_4/w10d03/student_labs)|[N/A](./unit_4/w10d03/homework)|
-| w010d4 | [N/A](./unit_4/w10d04/morning_exercise)| [N/A](./unit_4 /w10d04/instructor_notes)| [N/A](./unit_4/w10d04/student_labs)|[N/A](./unit_4/w10d04/homework)|
-| w010d5 | [N/A](./unit_4/w10d05/morning_exercise)| [N/A](./unit_4 /w10d05/instructor_notes)| [N/A](./unit_4/w10d05/student_labs)|[N/A](./unit_4/w10d05/homework)|
-| w010d1 | [N/A](./unit_4/w10d01/morning_exercise)| [N/A](./unit_4 /w10d01/instructor_notes)| [N/A](./unit_4/w10d01/student_labs)|[N/A](./unit_4/w10d01/homework)|
+| w010d1 | [N/A](./unit_4/w10d01/morning_exercise)| [N/A](./unit_4/w10d01/instructor_notes)| [N/A](./unit_4/w10d01/student_labs)|[N/A](./unit_4/w10d01/homework)|
+| w010d2 | [N/A](./unit_4/w10d02/morning_exercise)| [N/A](./unit_4/w10d02/instructor_notes)| [N/A](./unit_4/w10d02/student_labs)|[N/A](./unit_4/w10d02/homework)|
+| w010d3 | [N/A](./unit_4/w10d03/morning_exercise)| [N/A](./unit_4/w10d03/instructor_notes)| [N/A](./unit_4/w10d03/student_labs)|[N/A](./unit_4/w10d03/homework)|
+| w010d4 | [N/A](./unit_4/w10d04/morning_exercise)| [N/A](./unit_4/w10d04/instructor_notes)| [N/A](./unit_4/w10d04/student_labs)|[N/A](./unit_4/w10d04/homework)|
+| w010d5 | [N/A](./unit_4/w10d05/morning_exercise)| [N/A](./unit_4/w10d05/instructor_notes)| [N/A](./unit_4/w10d05/student_labs)|[N/A](./unit_4/w10d05/homework)|
+| w010d1 | [N/A](./unit_4/w10d01/morning_exercise)| [N/A](./unit_4/w10d01/instructor_notes)| [N/A](./unit_4/w10d01/student_labs)|[N/A](./unit_4/w10d01/homework)|
