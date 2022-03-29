@@ -85,8 +85,8 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w010d3 | [Study Hall](./unit_4/w10d03/morning_exercise)| [N/A](./unit_4/w10d03/instructor_notes)| [Python vs. Javascript - The Differences](./unit_4/w10d03/student_labs)|[Python Blackjack](./unit_4/w10d03/homework)|
 | w010d4 | [Study Hall](./unit_4/w10d04/morning_exercise)| [Intro to Django](./unit_4/w10d04/instructor_notes)| [Python Containers + Python Functions](./unit_4/w10d04/student_labs)|[N/A](./unit_4/w10d04/homework)|
 | w010d5 | [N/A](./unit_4/w10d05/morning_exercise)| [SQL](./unit_4/w10d05/instructor_notes)| [Computers & Televisions + Airplanes & Airports + Realty](./unit_4/w10d05/student_labs)|[SQL Practice - Carmen Sandiego and NFL](./unit_4/w10d05/homework)|
-| w011d1 | [N/A](./unit_4/w11d01/morning_exercise)| [N/A](./unit_4/w11d01/instructor_notes)| [N/A](./unit_4/w11d01/student_labs)|[N/A](./unit_4/w11d01/homework)|
-| w011d2 | [N/A](./unit_4/w11d02/morning_exercise)| [N/A](./unit_4/w11d02/instructor_notes)| [N/A](./unit_4/w11d02/student_labs)|[N/A](./unit_4/w11d02/homework)|
+| w011d1 | [SQL Practice](./unit_4/w11d01/morning_exercise)| [SOLID PRINCIPLES + Rapid Building A Django API to Consume + Settings Up A VPS with Digital Ocean](./unit_4/w11d01/instructor_notes)| [N/A](./unit_4/w11d01/student_labs)|[SOLID and Django/Tastypie](./unit_4/w11d01/homework)|
+| w011d2 | [Introduction to Data Structures / Linked Lists](./unit_4/w11d02/morning_exercise)| [Intro to NEXT.js](./unit_4/w11d02/instructor_notes)| [N/A](./unit_4/w11d02/student_labs)|[Isomorphic Applications + Linked Lists](./unit_4/w11d02/homework)|
 | w011d3 | [N/A](./unit_4/w11d03/morning_exercise)| [N/A](./unit_4/w11d03/instructor_notes)| [N/A](./unit_4/w11d03/student_labs)|[N/A](./unit_4/w11d03/homework)|
 | w011d4 | [N/A](./unit_4/w11d04/morning_exercise)| [N/A](./unit_4/w11d04/instructor_notes)| [N/A](./unit_4/w11d04/student_labs)|[N/A](./unit_4/w11d04/homework)|
 | w011d5 | [N/A](./unit_4/w11d05/morning_exercise)| [N/A](./unit_4/w11d05/instructor_notes)| [N/A](./unit_4/w11d05/student_labs)|[N/A](./unit_4/w11d05/homework)|
