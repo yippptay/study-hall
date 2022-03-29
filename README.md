@@ -90,3 +90,8 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 | w011d3 | [100 GOBLINS](./unit_4/w11d03/morning_exercise)| [An Ocean of Possiblity](./unit_4/w11d03/instructor_notes)| [N/A](./unit_4/w11d03/student_labs)|[Build Another Django App](./unit_4/w11d03/homework)|
 | w011d4 | [N/A](./unit_4/w11d04/morning_exercise)| [N/A](./unit_4/w11d04/instructor_notes)| [N/A](./unit_4/w11d04/student_labs)|[N/A](./unit_4/w11d04/homework)|
 | w011d5 | [N/A](./unit_4/w11d05/morning_exercise)| [N/A](./unit_4/w11d05/instructor_notes)| [N/A](./unit_4/w11d05/student_labs)|[N/A](./unit_4/w11d05/homework)|
+
+## Unit 5
+| Day | Morning Exercise | Lectures | Labs | Homework |
+|:---:|:-----------:|:-------:|:-----------:|:-----------:|
+| w012d1 | [N/A](./unit_5/w12d01/morning_exercise)| [N/A](./unit_5/w12d01/instructor_notes)| [N/A](./unit_5/w12d01/student_labs)|[N/A](./unit_5/w12d01/homework)|
