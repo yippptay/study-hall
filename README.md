@@ -63,5 +63,5 @@ Yanny Castrillon - Instructional Associate (Out Of Class) <br>
 ## Unit 3
 | Day | Morning Exercise | Lectures | Labs | Homework |
 |:---:|:-----------:|:-------:|:-----------:|:-----------:|
-| w07d4 | [N/A](./unit_3/w07d04/morning_exercise)| [N/A](./unit_3/w07d04/instructor_notes)| [N/A](./unit_3/w07d04/student_labs)|[N/A](./unit_3/w07d04/homework)|
-| w07d5 | [N/A](./unit_3/w07d04/morning_exercise)| [N/A](./unit_3/w07d04/instructor_notes)| [N/A](./unit_3/w07d04/student_labs)|[N/A](./unit_3/w07d04/homework)|
+| w07d4 | [N/A](./unit_3/w07d04/morning_exercise)| [N/A](./unit_3/w07d04/instructor_notes)| [N/A](./unit_3/w07d04/student_labs)|[Intro to SPA and CS](./unit_3/w07d04/homework)|
+| w07d5 | [N/A](./unit_3/w07d05/morning_exercise)| [N/A](./unit_3/w07d05/instructor_notes)| [N/A](./unit_3/w07d05/student_labs)|[N/A](./unit_3/w07d05/homework)|
